@@ -9,7 +9,7 @@
 
 | File | Description |
 | --- | --- |
-| [PayFlow QA Assessment (PDF)](docs/payflow_qa_Assessment.pdf) | Final 14-page assessment covering all four tasks: requirement analysis, 25 selected test cases, production incident investigation and release recommendations. |
+| [PayFlow QA Assessment (PDF)](docs/payflow_qa_assessment.pdf) | Final 14-page assessment covering all four tasks: requirement analysis, 25 selected test cases, production incident investigation and release recommendations. |
 | [Test cases (CSV)](test-cases/test_cases.csv) | Portable, filterable test-case inventory with conditions, steps, expected results, priority, design technique and execution status. |
 | [Reconciliation queries (SQL)](sql/reconciliation.sql) | Read-only diagnostic queries for request-level debit, credit and refund reconciliation. |
 | [Clarification register](docs/assumptions.md) | Open product decisions and provisional testing assumptions. |
